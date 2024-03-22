@@ -1,0 +1,1 @@
+Add https://github.com/mrwellmann/ScatterStream/tree/feature/UpdateToUnity2022.3 as package or just download it into \Assets\ScatterStream
